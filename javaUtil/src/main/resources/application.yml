@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+notebook:
+  api:
+    base-url: https://api-paas-di.yunxuetang.com.cn/ai-orchestrator/v1
+    org-id: 513036ab-47e2-41ea-944d-41799585fca5
+    user-id: 20da2e5d-a78c-418f-b1fa-221542899395
+
+    
